@@ -1,2 +1,2 @@
-FROM anshu/apache
-ADD . /var/www/html
+FROM tourabcd/apache
+ADD ./index.html  /var/www/html
